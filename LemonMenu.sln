@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonMenu.FiveM.Client", "LemonMenu.FiveM.Client\LemonMenu.FiveM.Client.csproj", "{D1F7FE90-4ABC-4135-8270-0F4F59BA09E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonMenu.SHVDN3", "LemonMenu.SHVDN3\LemonMenu.SHVDN3.csproj", "{43EF2BFF-4D95-4049-8F50-D4D1B7626C17}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5E4F3C6-3DF0-4FA9-A172-5F3FCB36F076}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F7FE90-4ABC-4135-8270-0F4F59BA09E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F7FE90-4ABC-4135-8270-0F4F59BA09E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F7FE90-4ABC-4135-8270-0F4F59BA09E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F7FE90-4ABC-4135-8270-0F4F59BA09E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43EF2BFF-4D95-4049-8F50-D4D1B7626C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EF2BFF-4D95-4049-8F50-D4D1B7626C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EF2BFF-4D95-4049-8F50-D4D1B7626C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EF2BFF-4D95-4049-8F50-D4D1B7626C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
